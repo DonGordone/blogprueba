@@ -1,5 +1,18 @@
 body{
   font-family: arial;
   text-align: center;
-  color: deeppink;
+  color: black;
+  font-size: 16px;
+}
+
+.container {
+  border: 1px solid black;
+  padding: 1em;
+  width: 70%;
+  /* display: inline-block; */
+  margin: 0 auto;
+}
+
+.post {
+  font-size: 20px
 }
