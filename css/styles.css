@@ -1,8 +1,9 @@
 body{
   font-family: arial;
   text-align: center;
-  color: #333;
+  color: black;
   font-size: 16px;
+  background-color: gray;
 }
 
 .container {
@@ -16,6 +17,11 @@ body{
 
 .container h1 {
   font-size: 20px;
+}
+
+.cabecera #logo {
+  width: 20px;
+  vertical-align: middle;
 }
 
 .cabecera {
@@ -33,5 +39,7 @@ body{
 }
 
 .post {
-  font-size: 20px
+  background: white;
+  font-size: 20px;
+  padding: 1em;;
 }
